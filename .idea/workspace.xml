@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="951e2bdb-58e6-4aa3-a7c4-43807b3d4466" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_homework_4_3.ipynb" afterPath="$PROJECT_DIR$/python_homework_4_3.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/python_homework_4_3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="5" />
+              <selected id="13" />
             </state>
           </provider>
         </entry>
@@ -136,7 +135,7 @@
     <entry file="file://$PROJECT_DIR$/python_homework_4_3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="5" />
+          <selected id="13" />
         </state>
       </provider>
     </entry>
